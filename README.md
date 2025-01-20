@@ -12,3 +12,17 @@ team members (3rd year):
 
 
 For second round I have attached the powerBI dashboard for visualization and the document stating the solution plan and the preprocessed dataset.
+
+
+
+
+
+For 3rd round:
+we have trained a weather model based on the preprocessed dataset and using that model we have created a webpage to deploy the model to get the result.
+
+
+To see this webpage do the following steps:
+1)Download that whole directory from repo
+2)open the app.py file and run the command python app.py in terminal
+3)click on the url in the terminal i.e: http://127.0.0.1:5000/
+4)Now enter the data in the fields and click on predict to see the weather condition.
